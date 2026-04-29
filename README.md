@@ -1,4 +1,4 @@
-# Negation in Vision-Language Models — Paper List
+# Negation in Vision-Language Models — Paper List ![Status](https://img.shields.io/badge/status-under--construction-yellow?style=for-the-badge&logo=github)
 
 A curated list of papers on **negation understanding in Vision-Language Models (VLMs)**, organized to accompany the survey:
 
@@ -67,9 +67,9 @@ Papers on negation understanding in language models.
 | Understanding by Understanding Not: Modeling Negation in Language Models | Hosseini et al. | NAACL 2021 | [Paper](https://aclanthology.org/2021.naacl-main.102/) |
 | Beyond Positive Scaling: How Negation Impacts Scaling Trends of Language Models | Zhang et al. | ACL Findings 2023 | [Paper](https://aclanthology.org/2023.findings-acl.472/) |
 | This is Not Correct! Negation-aware Evaluation of Language Generation Systems | Anschütz et al. | INLG 2023 | [Paper](https://aclanthology.org/2023.inlg-main.12/) |
-| Making Language Models Robust Against Negation | Rezaei & Blanco | NAACL 2025 | [Paper](#) |
-| NLMS: Augmenting Negation in Language Models | Singh et al. | EMNLP Findings 2023 | [Paper](https://aclanthology.org/2023.findings-emnlp.876/) |
-| Strong Hallucinations from Negation and How to Fix Them | Asher & Bhar | ACL Findings 2024 | [Paper](https://aclanthology.org/2024.findings-acl.756/) |
+| Making Language Models Robust Against Negation | Rezaei & Blanco | NAACL 2025 | [Paper](https://aclanthology.org/2025.naacl-long.413/) |
+| NLMS: Augmenting Negation in Language Models | Singh et al. | EMNLP Findings 2023 | [Paper](https://aclanthology.org/2023.findings-emnlp.873/) |
+| Strong Hallucinations from Negation and How to Fix Them | Asher & Bhar | ACL Findings 2024 | [Paper](https://aclanthology.org/2024.findings-acl.752/) |
 | A Negation Detection Assessment of GPTs: Analysis with the xNot360 Dataset | Nguyen et al. | arXiv 2023 | [Paper](https://arxiv.org/abs/2306.16638) |
 | A Multilingual Benchmark for Probing Negation-Awareness with Minimal Pairs | Hartmann et al. | CoNLL 2021 | [Paper](https://aclanthology.org/2021.conll-1.19/) |
 | Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models | Kim et al. | EMNLP 2025 | [Paper](https://aclanthology.org/2025.emnlp-main.1088/) |
@@ -77,7 +77,7 @@ Papers on negation understanding in language models.
 | NUBench: A Benchmark for LLMs' Sentence-Level Negation Understanding | So et al. | — | [Paper](https://openreview.net/forum?id=s7wGbha7dr) |
 | Negation: A Pink Elephant in the Large Language Models' Room? | Sojka et al. | arXiv 2025 | [Paper](https://arxiv.org/abs/2503.22395) |
 | Investigating and Addressing Hallucinations of LLMs in Tasks Involving Negation | Varshney et al. | TrustNLP 2025 | [Paper](https://aclanthology.org/2025.trustnlp-main.37/) |
-| CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation | Ravichander et al. | EMNLP 2022 | [Paper](https://aclanthology.org/2022.emnlp-main.593/) |
+| CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation | Ravichander et al. | EMNLP 2022 | [Paper](https://aclanthology.org/2022.emnlp-main.598/) |
 | Generating Diverse Negations from Affirmative Sentences | Vasquez & Papadaki | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.00056) |
 | Learning Robust Negation Text Representations | Truong et al. | arXiv 2025 | [Paper](https://arxiv.org/abs/2507.12782) |
 | Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning | Kamath et al. | arXiv 2026 | [Paper](https://arxiv.org/abs/2602.23351) |

@@ -102,14 +102,14 @@ Papers on negation understanding in language models.
 | CC-Neg | Negation understanding (triplets) | 228,246 (image, caption, negated caption) triplets | Singh et al., arXiv 2024 | [Paper](https://arxiv.org/abs/2403.20312) |
 | CC12M-NegFull | Fine-tuning negation awareness | 70M+ captions (NegCap + NegMCQ) | Alhamoud et al., CVPR 2025 | [Paper](https://arxiv.org/abs/2501.xxxxx) |
 | COVAND | Region-grounded negation detection | 91,110 captions (23,876 images) | Kang et al., arXiv 2025 | [Paper](https://arxiv.org/abs/2510.13232) |
-| NeIn (Negative Instruction) | Negation in instruction-based image editing | 366,957 quintuplets | Bui et al., CVPR 2025 | [Paper](#) |
-| HardNeg-Syn | Controlled negation evaluation (image pairs) | 10,000 image pairs | Alhamoud et al., CVPR 2025 | [Paper](#) |
+| NeIn (Negative Instruction) | Negation in instruction-based image editing | 366,957 quintuplets | Bui et al., CVPRW 2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/html/Bui_NeIn_Telling_What_You_Dont_Want_CVPRW_2025_paper.html) |
+| HardNeg-Syn | Controlled negation evaluation (image pairs) | 10,000 image pairs | Alhamoud et al., CVPR 2025 | [Paper](https://arxiv.org/abs/2403.20312) |
 
 ### Retrieval-Focused Benchmarks
 
 | Benchmark | Task | Size | Paper | Links |
 |---|---|---|---|---|
-| NegBench (Retrieval) | Inclusion/exclusion retrieval across image, video, medical | 79,239 samples (18 task variations) | Alhamoud et al., CVPR 2025 | [Paper](#) |
+| NegBench (Retrieval) | Inclusion/exclusion retrieval across image, video, medical | 79,239 samples (18 task variations) | Alhamoud et al., CVPR 2025 | [Paper]() |
 | NegRefCOCOg | Text-to-image retrieval with negation | 440 triplets | Park et al., 2025 | [Paper](#) |
 | nT2VR (Repurposed MSRVTT/VATEX Protocol) | Negation-aware video retrieval | Thousands of negated/composed queries | Wang et al., ACM MM 2022 | [Paper](https://dl.acm.org/doi/10.1145/3503161.3547940) |
 

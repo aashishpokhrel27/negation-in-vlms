@@ -65,8 +65,8 @@ Papers on negation understanding in language models.
 | Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts | Jang et al. | TL4NLP @ PMLR 2023 | [Paper](https://arxiv.org/abs/2209.12711) |
 | NegBERT: A Transfer Learning Approach for Negation Detection and Scope Resolution | Khandelwal & Sawant | LREC 2020 | [Paper](https://aclanthology.org/2020.lrec-1.704/) |
 | Understanding by Understanding Not: Modeling Negation in Language Models | Hosseini et al. | NAACL 2021 | [Paper](https://aclanthology.org/2021.naacl-main.102/) |
-| Beyond Positive Scaling: How Negation Impacts Scaling Trends of Language Models | Zhang et al. | ACL Findings 2023 | [Paper](https://aclanthology.org/2023.findings-acl.471/) |
-| This is Not Correct! Negation-aware Evaluation of Language Generation Systems | Anschütz et al. | INLG 2023 | [Paper](https://aclanthology.org/2023.inlg-main.14/) |
+| Beyond Positive Scaling: How Negation Impacts Scaling Trends of Language Models | Zhang et al. | ACL Findings 2023 | [Paper](https://aclanthology.org/2023.findings-acl.472/) |
+| This is Not Correct! Negation-aware Evaluation of Language Generation Systems | Anschütz et al. | INLG 2023 | [Paper](https://aclanthology.org/2023.inlg-main.12/) |
 | Making Language Models Robust Against Negation | Rezaei & Blanco | NAACL 2025 | [Paper](#) |
 | NLMS: Augmenting Negation in Language Models | Singh et al. | EMNLP Findings 2023 | [Paper](https://aclanthology.org/2023.findings-emnlp.876/) |
 | Strong Hallucinations from Negation and How to Fix Them | Asher & Bhar | ACL Findings 2024 | [Paper](https://aclanthology.org/2024.findings-acl.756/) |

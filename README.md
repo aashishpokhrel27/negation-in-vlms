@@ -92,13 +92,6 @@ Papers on negation understanding in language models.
 
 | Dataset | Task | Size | Paper | Links |
 |---|---|---|---|---|
-| CC12M | Pre-training | 12.4M image-text pairs (314K negated, 2.53%) | Changpinyo et al., CVPR 2021 | [Paper](https://arxiv.org/abs/2102.08981) |
-| LAION-400M | Pre-training | 413.8M pairs (2.4M negated, 0.58%) | Schuhmann et al., arXiv 2021 | [Paper](https://arxiv.org/abs/2111.02114) |
-| CC3M | Image Captioning | 3.3M (54K negated train, 1.63%) | Sharma et al., ACL 2018 | [Paper](https://aclanthology.org/P18-1238/) |
-| MS-COCO'14 | Image Captioning | 616K captions (1.7K negated train, 0.43%) | Lin et al., ECCV 2014 | [Paper](https://arxiv.org/abs/1405.0312) |
-| Flickr30k | Image Captioning | 31K (1.27K negated, 0.04%) | Plummer et al., ICCV 2015 | [Paper](https://arxiv.org/abs/1505.04870) |
-| SBU Captions | Image Captioning | 1M (26K negated, 2.62%) | Ordonez et al., NeurIPS 2011 | [Paper](#) |
-| CIRR | Composed Image Retrieval | 36K (868 negated train, 3.08%) | Liu et al., ICCV 2021 | [Paper](https://arxiv.org/abs/2105.02987) |
 | CC-Neg | Negation understanding (triplets) | 228,246 (image, caption, negated caption) triplets | Singh et al., arXiv 2024 | [Paper](https://arxiv.org/abs/2403.20312) |
 | CC12M-NegFull | Fine-tuning negation awareness | 70M+ captions (NegCap + NegMCQ) | Alhamoud et al., CVPR 2025 | [Paper](https://arxiv.org/abs/2501.xxxxx) |
 | COVAND | Region-grounded negation detection | 91,110 captions (23,876 images) | Kang et al., arXiv 2025 | [Paper](https://arxiv.org/abs/2510.13232) |

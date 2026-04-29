@@ -47,11 +47,11 @@ Foundational VLM papers referenced in the survey.
 | Visual Instruction Tuning (LLaVA) | Liu et al. | NeurIPS 2023 | [Paper](https://arxiv.org/abs/2304.08485) |
 | An Introduction to Vision-Language Modeling | Bordes et al. | arXiv 2024 | [Paper](https://arxiv.org/abs/2405.17247) |
 | Vision-Language Models for Vision Tasks: A Survey | Zhang et al. | IEEE TPAMI 2024 | [Paper](https://arxiv.org/abs/2304.00685) |
-| Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision | Han et al. | Information Fusion 2025 | [Paper](#) |
-| Scaling Laws for Native Multimodal Models | Shukor et al. | ICCV 2025 | [Paper](#) |
-| Deep Learning Approaches on Image Captioning: A Review | Ghandi et al. | ACM Computing Surveys 2023 | [Paper](#) |
-| A Decade Survey of Content Based Image Retrieval Using Deep Learning | Dubey | IEEE TCSVT 2021 | [Paper](#) |
-| Renaissance: A Survey into AI Text-to-Image Generation in the Era of Large Model | Bie et al. | IEEE TPAMI 2024 | [Paper](#) |
+| Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision | Han et al. | Information Fusion 2025 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007249) |
+| Scaling Laws for Native Multimodal Models | Shukor et al. | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Shukor_Scaling_Laws_for_Native_Multimodal_Models_ICCV_2025_paper.html) |
+| Deep Learning Approaches on Image Captioning: A Review | Ghandi et al. | ACM Computing Surveys 2023 | [Paper](https://arxiv.org/abs/2201.12944) |
+| A Decade Survey of Content Based Image Retrieval Using Deep Learning | Dubey | IEEE TCSVT 2021 | [Paper](https://arxiv.org/abs/2012.00641) |
+| Renaissance: A Survey into AI Text-to-Image Generation in the Era of Large Model | Bie et al. | IEEE TPAMI 2024 | [Paper](https://ieeexplore.ieee.org/abstract/document/10817489) |
 
 ---
 
@@ -72,17 +72,17 @@ Papers on negation understanding in language models.
 | Strong Hallucinations from Negation and How to Fix Them | Asher & Bhar | ACL Findings 2024 | [Paper](https://aclanthology.org/2024.findings-acl.756/) |
 | A Negation Detection Assessment of GPTs: Analysis with the xNot360 Dataset | Nguyen et al. | arXiv 2023 | [Paper](https://arxiv.org/abs/2306.16638) |
 | A Multilingual Benchmark for Probing Negation-Awareness with Minimal Pairs | Hartmann et al. | CoNLL 2021 | [Paper](https://aclanthology.org/2021.conll-1.19/) |
-| Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models | Kim et al. | EMNLP 2025 | [Paper](#) |
-| Thunder-NUBench: A Benchmark for LLMs' Sentence-Level Negation Understanding | So et al. | EACL Findings 2026 | [Paper](#) |
-| NUBench: A Benchmark for LLMs' Sentence-Level Negation Understanding | So et al. | — | [Paper](#) |
-| Negation: A Pink Elephant in the Large Language Models' Room? | Sojka et al. | arXiv 2025 | [Paper](https://arxiv.org/abs/2503.xxxxx) |
-| Investigating and Addressing Hallucinations of LLMs in Tasks Involving Negation | Varshney et al. | TrustNLP 2025 | [Paper](#) |
+| Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models | Kim et al. | EMNLP 2025 | [Paper](https://aclanthology.org/2025.emnlp-main.1088/) |
+| Thunder-NUBench: A Benchmark for LLMs' Sentence-Level Negation Understanding | So et al. | EACL Findings 2026 | [Paper](https://aclanthology.org/2026.findings-eacl.250/) |
+| NUBench: A Benchmark for LLMs' Sentence-Level Negation Understanding | So et al. | — | [Paper](https://openreview.net/forum?id=s7wGbha7dr) |
+| Negation: A Pink Elephant in the Large Language Models' Room? | Sojka et al. | arXiv 2025 | [Paper](https://arxiv.org/abs/2503.22395) |
+| Investigating and Addressing Hallucinations of LLMs in Tasks Involving Negation | Varshney et al. | TrustNLP 2025 | [Paper](https://aclanthology.org/2025.trustnlp-main.37/) |
 | CondaQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation | Ravichander et al. | EMNLP 2022 | [Paper](https://aclanthology.org/2022.emnlp-main.593/) |
 | Generating Diverse Negations from Affirmative Sentences | Vasquez & Papadaki | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.00056) |
 | Learning Robust Negation Text Representations | Truong et al. | arXiv 2025 | [Paper](https://arxiv.org/abs/2507.12782) |
 | Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning | Kamath et al. | arXiv 2026 | [Paper](https://arxiv.org/abs/2602.23351) |
-| Towards the Roots of the Negation Problem: A Multilingual NLI Dataset and Model Scaling Analysis | Vrabcová et al. | EMNLP Findings 2025 | [Paper](#) |
-| A Comprehensive Taxonomy of Negation for NLP and Neural Retrievers | Petcu et al. | Preprint 2025 | [Paper](#) |
+| Towards the Roots of the Negation Problem: A Multilingual NLI Dataset and Model Scaling Analysis | Vrabcová et al. | EMNLP Findings 2025 | [Paper](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.1391.pdf) |
+| A Comprehensive Taxonomy of Negation for NLP and Neural Retrievers | Petcu et al. | Preprint 2025 | [Paper](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.839.pdf) |
 
 ---
 

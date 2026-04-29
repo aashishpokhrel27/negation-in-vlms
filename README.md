@@ -247,7 +247,7 @@ Papers on negation understanding in language models.
 
 ---
 
-## Contributing
+<!-- ## Contributing
 
 If you find a paper on negation in VLMs that is not listed here, feel free to open a pull request with the following format:
 
@@ -269,4 +269,4 @@ If you find this list useful, please consider citing our survey:
   author={Pokhrel, Aashish and Ghimire, Bipin and Paudel, Prashanna Mani and Sheshappanavar, Shivanand Venkanna},
   year={2025}
 }
-```
+``` -->

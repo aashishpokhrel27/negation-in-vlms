@@ -166,8 +166,8 @@ Papers on negation understanding in language models.
 | Method | Task | Key Result | Paper | Links |
 |---|---|---|---|---|
 | nT2VR | Text-to-video retrieval | R@1 28.4, R@5 53.7 on MSR-VTT (negated + composed) | Wang et al., ACM MM 2022 | [Paper](https://dl.acm.org/doi/10.1145/3503161.3547940) |
-| NeIn | Instruction-based image editing | SOTA editors achieve only 2–8% removal accuracy (first dataset of its kind) | Bui et al., CVPR 2025 | [Paper](#) |
-| CXR-Align | Medical chest X-ray | Adversarial prediction 34.4% (vs baselines 11–23%); strong F1 gains | Ko & Park, CVPR 2025 | [Paper](#) |
+| NeIn | Instruction-based image editing | SOTA editors achieve only 2–8% removal accuracy (first dataset of its kind) | Bui et al., CVPRW 2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/html/Bui_NeIn_Telling_What_You_Dont_Want_CVPRW_2025_paper.html) |
+| CXR-Align | Medical chest X-ray | Adversarial prediction 34.4% (vs baselines 11–23%); strong F1 gains | Ko & Park, CVPR 2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ko_Bringing_CLIP_to_the_Clinic_Dynamic_Soft_Labels_and_Negation-Aware_CVPR_2025_paper.html) |
 | CoN2-CLIP | Medical / retrieval | +15% retrieval accuracy on negated/composite prompts | Vu & Sheshappanavar, arXiv 2025 | [Paper](https://arxiv.org/abs/2512.17121) |
 
 ### Objective-Centric Reformulation and Logic-Aware Training
@@ -175,7 +175,7 @@ Papers on negation understanding in language models.
 | Method | Key Idea | Key Result | Paper | Links |
 |---|---|---|---|---|
 | Bi-MCQ | Bidirectional MCQ reformulation | Up to 0.47 AUC gains on negation understanding in medical datasets | Kim & Lee, arXiv 2026 | [Paper](https://arxiv.org/abs/2601.22696) |
-| LogicCLIP | Logic-aware contrastive training | Gains on LogicBench without sacrificing overall performance | Zhou et al., AAAI 2026 | [Paper](#) |
+| LogicCLIP | Logic-aware contrastive training | Gains on LogicBench without sacrificing overall performance | Zhou et al., AAAI 2026 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40143) |
 
 ---
 
@@ -187,7 +187,7 @@ Papers on negation understanding in language models.
 | SpaceVLM | Training-free geometric subspace modeling | ~30% avg improvement on NegBench (retrieval + MCQ) | Ranjbar et al., arXiv 2025 | [Paper](https://arxiv.org/abs/2511.12331) |
 | SpaceVLM-DRC | Training-free query decomposition + dynamic repulsion | COCO Retrieval-Neg R@1 30.2 (+5.2); MSRVTT R@1 28.9 (+5.1) | Pokhrel & Sheshappanavar, CVPRW 2026 | [Paper](#) |
 | NEGTOME | Lightweight token-merging + LoRA in cross-attention | Reduces false positives; improves structured detection on COVAND | Kang et al., arXiv 2025 | [Paper](https://arxiv.org/abs/2510.13232) |
-| CLIPGLASSES | Plug-and-play dual-stage (Lens + Frame modules, no fine-tuning) | Strong cross-domain generalization | Xiao et al., AAAI 2026 | [Paper](#) |
+| CLIPGLASSES | Plug-and-play dual-stage (Lens + Frame modules, no fine-tuning) | Strong cross-domain generalization | Xiao et al., AAAI 2026 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38075) |
 | DEO | Training-free direct embedding optimization via LLM query decomposition | Significant Recall@5 gains on NegConstraint over OpenAI CLIP | Lee et al., arXiv 2026 | [Paper](https://arxiv.org/abs/2603.09185) |
 | NEGATE | Negation-derived diffusion guidance constraints (no retraining) | Handles object absence, scope disambiguation, multi-negation in T2V | Kang & Lin, arXiv 2026 | [Paper](https://arxiv.org/abs/2603.06533) |
 
@@ -199,30 +199,30 @@ Papers on negation understanding in language models.
 
 | Paper | Venue | Links |
 |---|---|---|
-| Bringing CLIP to the Clinic: Dynamic Soft Labels and Negation-Aware Learning for Medical Analysis (CXR-Align) | CVPR 2025 | [Paper](#) |
+| Bringing CLIP to the Clinic: Dynamic Soft Labels and Negation-Aware Learning for Medical Analysis (CXR-Align) | CVPR 2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ko_Bringing_CLIP_to_the_Clinic_Dynamic_Soft_Labels_and_Negation-Aware_CVPR_2025_paper.html) |
 | The Effect of Negation on CLIP in Medical Imaging: Limitations of Contrastive Language-Image Pretraining (CoN2-CLIP) | arXiv 2025 | [Paper](https://arxiv.org/abs/2512.17121) |
 | Bi-MCQ: Reformulating Vision-Language Alignment for Negation Understanding | arXiv 2026 | [Paper](https://arxiv.org/abs/2601.22696) |
-| On Large Visual Language Models for Medical Imaging Analysis: An Empirical Study | IEEE CHASE 2024 | [Paper](#) |
+| On Large Visual Language Models for Medical Imaging Analysis: An Empirical Study | IEEE CHASE 2024 | [Paper](https://ieeexplore.ieee.org/abstract/document/10614428/) |
 | Disparities in Negation Understanding Across Languages in Vision-Language Models | arXiv 2026 | [Paper](https://arxiv.org/abs/2604.18942) |
 
 ### Image and Video Retrieval
 
 | Paper | Venue | Links |
 |---|---|---|
-| Vision-Language Models Do Not Understand Negation (NegBench) | CVPR 2025 | [Paper](#) |
-| Know "No" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP (NegationCLIP) | 2025 | [Paper](#) |
-| Learn to Understand Negation in Video Retrieval (nT2VR) | ACM MM 2022 | [Paper](https://dl.acm.org/doi/10.1145/3503161.3547940) |
+| Vision-Language Models Do Not Understand Negation (NegBench) | CVPR 2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Alhamoud_Vision-Language_Models_Do_Not_Understand_Negation_CVPR_2025_paper.html) |
+| Know "No" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP (NegationCLIP) | 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Park_Know_No_Better_A_Data-Driven_Approach_for_Enhancing_Negation_Awareness_ICCV_2025_paper.html) |
+| Learn to Understand Negation in Video Retrieval (nT2VR) | ACM MM 2022 | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547968) |
 | Negation-Aware Test-Time Adaptation for Vision-Language Models (NEAT) | arXiv 2025 | [Paper](https://arxiv.org/abs/2507.19064) |
 | SpaceVLM: Sub-Space Modeling of Negation in Vision-Language Models | arXiv 2025 | [Paper](https://arxiv.org/abs/2511.12331) |
 | DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval | arXiv 2026 | [Paper](https://arxiv.org/abs/2603.09185) |
-| Not Just What's There: Enabling CLIP to Comprehend Negated Visual Descriptions Without Fine-Tuning (CLIPGLASSES) | AAAI 2026 | [Paper](#) |
+| Not Just What's There: Enabling CLIP to Comprehend Negated Visual Descriptions Without Fine-Tuning (CLIPGLASSES) | AAAI 2026 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38075) |
 
 ### Generative Models
 
 | Paper | Venue | Links |
 |---|---|---|
 | TNG-CLIP: Training-Time Negation Data Generation for Negation Awareness of CLIP | arXiv 2025 | [Paper](https://arxiv.org/abs/2505.18434) |
-| NeIn: Telling What You Don't Want | CVPR 2025 | [Paper](#) |
+| NeIn: Telling What You Don't Want | CVPR 2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/html/Bui_NeIn_Telling_What_You_Dont_Want_CVPRW_2025_paper.html) |
 | NEGATE: Constrained Semantic Guidance for Linguistic Negation in Text-to-Video Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2603.06533) |
 | Negation Blindness in Large Language Models: Unveiling the NO Syndrome in Image Generation | arXiv 2024 | [Paper](https://arxiv.org/abs/2409.00105) |
 
@@ -233,17 +233,17 @@ Papers on negation understanding in language models.
 | Title | Authors | Venue | Links |
 |---|---|---|---|
 | From No to Know: Taxonomy, Challenges, and Opportunities for Negation Understanding in Multimodal Foundation Models | Vatsa et al. | arXiv 2025 | [Paper](https://arxiv.org/abs/2502.09645) |
-| Compositionality in Contrastive Vision-Language Models: A Survey of Methods and Benchmarks | Abdolali et al. | 2026 | [Paper](#) |
-| A Survey of Vision-Language Pre-Trained Models | Du et al. | 2022 | [Paper](#) |
+| Compositionality in Contrastive Vision-Language Models: A Survey of Methods and Benchmarks | Abdolali et al. | 2026 | [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177004940.09969046/v1) |
+| A Survey of Vision-Language Pre-Trained Models | Du et al. | 2022 | [Paper](https://arxiv.org/abs/2202.10936) |
 | Explain Before You Answer: A Survey on Compositional Visual Reasoning | Ke et al. | arXiv 2025 | [Paper](https://arxiv.org/abs/2508.17298) |
 | From Perception to Cognition: A Survey of Vision-Language Interactive Reasoning in Multimodal Large Language Models | Zhou et al. | arXiv 2025 | [Paper](https://arxiv.org/abs/2509.25373) |
-| How and Where Does CLIP Process Negation? | Quantmeyer et al. | ALVR Workshop 2024 | [Paper](#) |
+| How and Where Does CLIP Process Negation? | Quantmeyer et al. | ALVR Workshop 2024 | [Paper](https://aclanthology.org/2024.alvr-1.5/) |
 | Sparse Visual Thought Circuits in Vision-Language Models | Zhou | arXiv 2026 | [Paper](https://arxiv.org/abs/2603.25075) |
-| Polarity-Aware Probing for Quantifying Latent Alignment in Language Models | Sadiekh et al. | AAAI 2026 | [Paper](#) |
+| Polarity-Aware Probing for Quantifying Latent Alignment in Language Models | Sadiekh et al. | AAAI 2026 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/41126) |
 | Relations, Negations, and Numbers: Looking for Logic in Generative Text-to-Image Models | Conwell et al. | arXiv 2024 | [Paper](https://arxiv.org/abs/2411.17066) |
-| Calling a Spade a Heart: Gaslighting Multimodal Large Language Models via Negation (GaslightingBench) | Zhu et al. | arXiv 2025 | [Paper](#) |
+| Benchmarking Gaslighting Negation Attacks Against Multimodal Large Language Models | Zhu et al. | arXiv 2025 | [Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250119017Z/abstract) |
 | Investigating Negation in Pre-trained Vision-and-Language Models | Dobreva & Keller | BlackboxNLP 2021 | [Paper](https://aclanthology.org/2021.blackboxnlp-1.27/) |
-| The Road to Negation: A Comparative Study of Five Typologically and Culturally Diverse Languages | Çabuk-Ballı et al. | First Language 2025 | [Paper](#) |
+| The Road to Negation: A Comparative Study of Five Typologically and Culturally Diverse Languages | Çabuk-Ballı et al. | First Language 2025 | [Paper](https://journals.sagepub.com/doi/full/10.1177/01427237251336806) |
 
 ---
 
